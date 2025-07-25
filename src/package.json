@@ -1,0 +1,17 @@
+{
+  "name": "dvar-torah",
+  "version": "1.0.0",
+  "description": "אתר דברי תורה עם Express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "",
+  "license": "MIT"
+}
